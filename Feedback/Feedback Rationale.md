@@ -1,6 +1,6 @@
 > [!NOTE]
 > **Scope**
-> Companion to [Feedback](Feedback/Feedback.md). Explains the interview-craft reasoning behind each question in the template—what it's designed to elicit, what it avoids, and what weaker alternatives it beats. Draw on this when adapting the template for a new study or coaching a teammate through their first interview.
+> Companion to [Feedback](Feedback.md). Explains the interview-craft reasoning behind each question in the template—what it's designed to elicit, what it avoids, and what weaker alternatives it beats. Draw on this when adapting the template for a new study or coaching a teammate through their first interview.
 
 ## Why These Questions, Not Others
 

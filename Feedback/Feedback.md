@@ -1,6 +1,6 @@
 > [!NOTE]
 > **Scope**
-> This template is for qualitative feedback interviews—one instrument within the Feedback lens (alongside surveys, NPS/CSAT, beta feedback, reviews, and support logs). Pair with behavioral signal from prior Discovery work or usage analytics so self-reports can be cross-checked against actual behavior. See [Methods](Methods.md).
+> This template is for qualitative feedback interviews—one instrument within the Feedback lens (alongside surveys, NPS/CSAT, beta feedback, reviews, and support logs). Pair with behavioral signal from prior Discovery work or usage analytics so self-reports can be cross-checked against actual behavior. See [Methods](../Methods.md).
 
 ## Research Questions
 
@@ -72,4 +72,5 @@
 
 *Research team work after the session ends—internal debrief, consolidate notes, link the recording, and begin synthesis.*
 
+- [Synthesis task]
 - [Synthesis task]
