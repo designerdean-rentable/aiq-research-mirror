@@ -5,6 +5,7 @@
 | Variant | Users | Sessions | Segment Breakdown |
 | ------- | ----- | -------- | ----------------- |
 |         |       |          |                   |
+|         |       |          |                   |
 
 
 ---
@@ -15,6 +16,7 @@
 
 | Variant | Metric Value | Delta vs Control | Confidence Interval | p-value |
 | ------- | ------------ | ---------------- | ------------------- | ------- |
+|         |              |                  |                     |         |
 |         |              |                  |                     |         |
 
 > [!IMPORTANT]
@@ -34,11 +36,13 @@
 | Metric | Control | Treatment | Delta | Flagged? |
 | ------ | ------- | --------- | ----- | -------- |
 |        |         |           |       |          |
+|        |         |           |       |          |
 
 ### Exploratory
 
 | Metric | Control | Treatment | Delta |
 | ------ | ------- | --------- | ----- |
+|        |         |           |       |
 |        |         |           |       |
 
 

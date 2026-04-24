@@ -19,6 +19,7 @@
 | Task | Participant 1 | Participant 2 | Participant 3 | Participant 4 | Participant 5 | Participant 6 |
 | ---- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |      |               |               |               |               |               |               |
+|      |               |               |               |               |               |               |
 
 > [!IMPORTANT]
 > **Key Takeaways**
@@ -67,4 +68,5 @@
 
 | Problem | Category | Priority | Recommendation |
 | ------- | -------- | -------- | -------------- |
+|         |          |          |                |
 |         |          |          |                |
