@@ -54,13 +54,13 @@
 
 *Task scenarios for the participant to perform. Read the scenario aloud; observe silently while the participant works.*
 
-🗣️ Say: [Task scenario]
+🗣️ Say: [Task]
 
-> 🤫 Do: [Expected behavior]
+> 🤫 Do: [Non-spoken instruction]
 
-🗣️ Say: [Task scenario]
+🗣️ Say: [Task]
 
-> 🤫 Do: [Expected behavior]
+> 🤫 Do: [Non-spoken instruction]
 
 ## Post-Task Questions
 
