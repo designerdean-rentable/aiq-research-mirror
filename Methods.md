@@ -13,7 +13,7 @@ A decision tool for choosing which research approach to emphasize at any given m
 
 ## The Four Lenses
 
-#### Discovery
+#### 1. Discovery
 
 *"Are we solving the right problem?"*
 
@@ -26,7 +26,7 @@ Grounds the team in the user's actual work, decisions, and context before design
 - **Rohrer dimensions:** Primarily behavioral and qualitative, natural or near-natural context of use
 - **Templates:** [[Discovery]] (plan) · [[Discovery Results]] (results)
 
-#### User Testing
+#### 2. User Testing
 
 *"Can people actually use this?"*
 
@@ -39,7 +39,7 @@ Observes real people interacting with a design or prototype to identify usabilit
 - **Rohrer dimensions:** Behavioral, qualitative, scripted or limited context of use
 - **Templates:** [[User Test]] (plan) · [[User Test Results]] (results)
 
-#### Feedback
+#### 3. Feedback
 
 *"What do users say they think and want?"*
 
@@ -52,7 +52,7 @@ Collects self-reported attitudes and reactions at any stage of product work—po
 - **Rohrer dimensions:** Attitudinal, mixed qualitative and quantitative, decontextualized
 - **Templates:** [[Feedback]] (plan) · [[Feedback Results]] (results)
 
-#### Experimentation
+#### 4. Experimentation
 
 *"Which option performs better?"*
 
