@@ -1,7 +1,3 @@
----
-tags:
-  - discovery
----
 ## Research Questions
 
 *The overarching objectives the study seeks to answer. Write these first—they shape the interview questions.*

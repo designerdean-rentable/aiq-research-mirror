@@ -1,7 +1,3 @@
----
-tags:
-  - user-test
----
 ## Participants
 
 *Who was tested. One column per participant.*

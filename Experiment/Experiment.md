@@ -1,7 +1,3 @@
----
-tags:
-  - experiment
----
 ## Research Questions
 
 *The overarching question the experiment contributes to answering. Typically one for an experiment, unlike interview studies which often have several.*

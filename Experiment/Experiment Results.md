@@ -1,7 +1,3 @@
----
-tags:
-  - experiment
----
 ## Participants & Traffic
 
 *Actual enrollment by variant and segment. Note any sample ratio mismatch, filtering, or unexpected traffic composition.*

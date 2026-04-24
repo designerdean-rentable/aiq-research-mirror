@@ -1,9 +1,5 @@
----
-tags:
-  - feedback
----
 > [!info] Scope
-> This template is for qualitative feedback interviews—one instrument within the Feedback lens (alongside surveys, NPS/CSAT, beta feedback, reviews, and support logs). Pair with behavioral signal from prior Discovery work or usage analytics so self-reports can be cross-checked against actual behavior. See [[Methods]].
+> This template is for qualitative feedback interviews—one instrument within the Feedback lens (alongside surveys, NPS/CSAT, beta feedback, reviews, and support logs). Pair with behavioral signal from prior Discovery work or usage analytics so self-reports can be cross-checked against actual behavior. See [Methods](Methods.md).
 
 ## Research Questions
 

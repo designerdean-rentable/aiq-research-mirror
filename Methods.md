@@ -1,9 +1,3 @@
----
-last-reviewed: 2026-04-21
-owner: Josh
-tags:
-  - research
----
 ## Purpose
 
 A decision tool for choosing which research approach to emphasize at any given moment. Four concurrent lenses—Discovery, User Testing, Feedback, Experimentation—each answering a different core question. Not sequential phases; all four apply throughout product work. Informed by Christian Rohrer's [Landscape of User Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/) (NN/g), which maps 20 UX research methods across three dimensions: attitudinal vs. behavioral, qualitative vs. quantitative, and context of product use.
@@ -24,7 +18,7 @@ Grounds the team in the user's actual work, decisions, and context before design
 - **Delivers:** Problem statement (qualitative, generative)
 - **Addresses risk:** Value, viability
 - **Rohrer dimensions:** Primarily behavioral and qualitative, natural or near-natural context of use
-- **Templates:** [[Discovery]] (plan) · [[Discovery Results]] (results)
+- **Templates:** [Discovery](Discovery/Discovery.md) (plan) · [Discovery Results](Discovery/Discovery%20Results.md) (results)
 
 #### 2. User Testing
 
@@ -37,7 +31,7 @@ Observes real people interacting with a design or prototype to identify usabilit
 - **Delivers:** Usability fixes (behavioral, evaluative)
 - **Addresses risk:** Usability, value
 - **Rohrer dimensions:** Behavioral, qualitative, scripted or limited context of use
-- **Templates:** [[User Test]] (plan) · [[User Test Results]] (results)
+- **Templates:** [User Test](User%20Test/User%20Test.md) (plan) · [User Test Results](User%20Test/User%20Test%20Results.md) (results)
 
 #### 3. Feedback
 
@@ -50,7 +44,7 @@ Collects self-reported attitudes and reactions at any stage of product work—po
 - **Delivers:** Sentiment signal (attitudinal, continuous)
 - **Addresses risk:** Value, viability
 - **Rohrer dimensions:** Attitudinal, mixed qualitative and quantitative, decontextualized
-- **Templates:** [[Feedback]] (plan) · [[Feedback Results]] (results)
+- **Templates:** [Feedback](Feedback/Feedback.md) (plan) · [Feedback Results](Feedback/Feedback%20Results.md) (results)
 
 #### 4. Experimentation
 
@@ -64,7 +58,7 @@ Measures which design option performs better with live users, using controlled c
 - **Addresses risk:** Value, feasibility
 - **Rohrer dimensions:** Behavioral, quantitative, natural context of use
 - **Rigor framework:** Drawn from Ron Kohavi's *Trustworthy Online Controlled Experiments* (2020), since NN/g's guidance on experimentation focuses on the role of A/B testing alongside UX research rather than the statistical methodology (hypothesis format, primary vs. guardrail metrics, sample-size calculation, decision rule)
-- **Templates:** [[Experiment]] (plan) · [[Experiment Results]] (results)
+- **Templates:** [Experiment](Experiment/Experiment.md) (plan) · [Experiment Results](Experiment/Experiment%20Results.md) (results)
 
 
 ---

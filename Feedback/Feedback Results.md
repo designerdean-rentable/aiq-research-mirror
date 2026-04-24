@@ -1,7 +1,3 @@
----
-tags:
-  - feedback
----
 ## Participants
 
 *Who was interviewed. One column per participant.*
