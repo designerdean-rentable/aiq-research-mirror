@@ -2,6 +2,8 @@
 
 A decision tool for choosing which research approach to emphasize at any given moment. Four concurrent lenses—Discovery, User Testing, Feedback, Experimentation—each answering a different core question. Not sequential phases; all four apply throughout product work. Informed by Christian Rohrer's [Landscape of User Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/) (NN/g), which maps 20 UX research methods across three dimensions: attitudinal vs. behavioral, qualitative vs. quantitative, and context of product use.
 
+This framework is not necessarily aligned with other major product and product research experts in the industry (Teresa Torres, Marty Cagan/SVPG, Tim Herbig, Eric Ries, etc.). Standardizing on one coherent body of work keeps gate criteria, lens taxonomy, sample-size guidance, and interview craft built on shared assumptions—mixing frameworks tends to break that consistency at the seams, and a single methodology produces faster, more legible plans across the team.
+
 
 ---
 
