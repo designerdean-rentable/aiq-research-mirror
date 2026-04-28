@@ -2,11 +2,11 @@
 
 Public mirror of research methodology and plan templates used by the `aiq-research` Claude skill at ApartmentIQ.
 
-## Why this repo exists
+## Why This Repo Exists
 
 The Claude skill fetches these templates at runtime via `curl` when generating research plans. A public repo lets the skill resolve template URLs anonymously without an auth dance inside the skill itself.
 
-## Source of truth
+## Source of Truth
 
 These files are mirrored from the private Workshop vault (`03 Resources/Research/`) maintained by Josh Dean. **Do not edit files in this repo directly**—a GitHub Action overwrites this repo on every push to the source. Edit in the vault; the mirror updates automatically.
 
